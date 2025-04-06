@@ -42,7 +42,7 @@ php artisan app:fetch-top-positions 2025-03-20
 
 Запрос:
 ```
-GET /appTopCategory?date=2023-06-01
+GET /appTopCategory?date=2025-03-20
 ```
 
 Ответ:
